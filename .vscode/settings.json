@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ExampleConvection.C": "cpp",
+        "main.C": "cpp",
+        "ExampleApp.C": "cpp"
+    }
+}

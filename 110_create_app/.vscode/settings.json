@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "main.C": "cpp",
+        "ExampleApp.C": "cpp",
+        "mydiffusionapp.h": "c"
+    }
+}
